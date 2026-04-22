@@ -47,6 +47,8 @@ My goal is to be competitive for internship programs at companies like **Nu**, *
 ---
 
 ## 📁 Repository Structure
+
+```
 software-engineering-journey/
 │
 ├── 01-foundations/          # CS50x, Think Python
@@ -56,6 +58,7 @@ software-engineering-journey/
 ├── 05-projects/             # Hackathon project + portfolio apps
 ├── progress-log/            # Weekly learning logs
 └── resources/               # Books, articles, useful links
+```
 
 ---
 
